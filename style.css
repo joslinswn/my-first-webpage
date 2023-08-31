@@ -1,0 +1,112 @@
+body {
+    text-align: center;
+    
+    color: white;
+    background-color: black;
+}
+
+
+#one {
+    border-radius: 50%;
+    border: 2px dotted #ffffff;
+    width: 200px;
+}
+
+h1, #three {
+    text-shadow: 0px 0px 5px white;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#two {
+    margin: 15px 0 3px 0;
+}
+
+.five {
+    margin-top: 100px;
+}
+
+.six {
+    margin-top: 15px;
+}
+
+.seven {
+    width: 400px;
+    background-image: url("gift.png");
+    background-size: cover;
+    height: 400px;
+    border: 3px solid white;
+    border-radius: 3px;
+    margin: 0 auto;
+    
+}
+
+#one-gif:hover {
+    background-image: url("one.gif");
+
+}
+
+.nine {
+    margin-top: 50px;
+}
+
+.ten {
+    width: 400px;
+    background-image: url("gift.png");
+    background-size: cover;
+    height: 400px;
+    border: 3px solid white;
+    border-radius: 3px;
+    margin: 0 auto;   
+}
+
+#two-gif:hover {
+    background-image: url("two.gif");
+    
+}
+
+.twelve {
+    margin-top: 50px;
+}
+
+.thirteen {
+    width: 400px;
+    background-image: url("gift.png");
+    background-size: cover;
+    height: 400px;
+    border: 3px solid white;
+    border-radius: 3px;
+    margin: 0 auto;   
+}
+
+#three-gif:hover {
+    background-image: url("three.gif");
+    
+}
+
+.fifteen {
+    margin-top: 50px;
+}
+
+.sixteen {
+    width: 400px;
+    background-image: url("gift.png");
+    background-size: cover;
+    height: 400px;
+    border: 3px solid white;
+    border-radius: 3px;
+    margin: 0 auto;   
+}
+
+#four-gif:hover {
+    background-image: url("four.gif");
+    
+}
+
+.seventeen {
+    margin: 100px;
+}
